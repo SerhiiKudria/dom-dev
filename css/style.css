@@ -1,0 +1,31 @@
+.newsList {
+  margin: 10px;
+}
+
+.newsListItem {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin: 10px;
+  box-shadow: 0 0 5px grey;
+  padding: 10px;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+button {
+  margin-left: auto;
+}
+
+h1 {
+  font-size: larger;
+}
+
+h2 {
+  font-size: large;
+}
